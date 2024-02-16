@@ -1,0 +1,12 @@
+.btnContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    height: 70px;
+    width: 70px;
+    margin: 8px;
+    font-size: 25px;
+}
